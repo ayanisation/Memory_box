@@ -38,7 +38,7 @@ const User = () => {
       <Common title={dispUser} />
       <Container maxWidth="lg">
         <Grow in>
-          <Container style={{ marginTop: 60, marginBottom: 60 }}>
+          <Container style={{ marginTop: 60, marginBottom: 120 }}>
             <Grid
               container
               justify="space-between"
