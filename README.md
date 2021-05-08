@@ -1,5 +1,5 @@
 ### Try it yourself: 
-[Memory Box](https://ayanisation.github.io/Memory_Box/)
+[Memory Box](https://ayanisation.github.io/Memory_box/)
 
 ## Setup:
 
