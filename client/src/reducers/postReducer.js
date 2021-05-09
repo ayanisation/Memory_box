@@ -9,7 +9,7 @@ const postReducer = (posts = [], action) => {
         post._id === action.payload._id ? action.payload : post
       );
     case "DELETE_POST":
-      return posts.filter((post) => post._id !== action.payload._id);
+      return posts.filter((post) => post._id !== action.payload);
     default:
       return posts;
   }
